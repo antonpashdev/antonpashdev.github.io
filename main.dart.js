@@ -100114,16 +100114,17 @@ $ibR:1}
 A.k8.prototype={
 L(){return"PluralCase."+this.b}}
 A.aBL.prototype={
-gol(){var s=0,r=A.L(t.T),q,p,o
+gol(){var s=0,r=A.L(t.T),q,p,o,n
 var $async$gol=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:s=3
 return A.S($.ne().n1("jwt_token"),$async$gol)
-case 3:p=b
-o=A.aZm(p==null?"":p)
-p=J.ao(o)
-if(p.gam(o)){q=null
+case 3:o=b
+n=A.aZm(o==null?"":o)
+o=J.ao(n)
+if(o.gam(n)){q=null
 s=1
-break}q=p.i(o,"userId")
+break}p=o.i(n,"userId")
+q=p==null?o.i(n,"_id"):p
 s=1
 break
 case 1:return A.J(q,r)}})
