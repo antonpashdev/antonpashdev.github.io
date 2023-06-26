@@ -100216,8 +100216,6 @@ s.q(0,"member[role]",p==null?q:p.b)
 s.q(0,"member[impactRatio]",b.d)
 s.q(0,"member[isAutoContributing]",b.e)
 s.q(0,"member[hoursPerWeek]",b.f)
-s.q(0,"member[user]",b.r)
-s.q(0,"member[orgUser]",b.w)
 p=b.at
 if(p!=null){s.q(0,"member[compensation][amount]",p.a)
 p=b.at.b
