@@ -4,7 +4,7 @@
     "start_url": "https://app.impactwallet.xyz/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#ffffff",
+    "theme_color": "#222222",
     "description": "Manage your equity like never before.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
