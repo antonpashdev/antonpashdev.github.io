@@ -1,7 +1,7 @@
 {
     "name": "Equity Wallet",
     "short_name": "Equity Wallet",
-    "start_url": "https://app.impactwallet.xyz/",
+    "start_url": "https://app.equitywallet.org/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#222222",

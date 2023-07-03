@@ -103818,7 +103818,7 @@ a8(){return new A.MT(B.o)}}
 A.MT.prototype={
 gN0(){var s=this.e
 s===$&&A.b()
-return"app.impactwallet.xyz/offer?i="+A.e(s.a)+"&oi="+A.e(this.a.c.a)},
+return"app.equitywallet.org/offer?i="+A.e(s.a)+"&oi="+A.e(this.a.c.a)},
 aO(){this.b8()
 this.e=this.a.e},
 apR(a){var s,r,q,p,o,n,m,l=null,k=a.a3(t.q).f,j=this.a.d
@@ -104283,7 +104283,7 @@ A.Ab.prototype={
 jX(a){return this.au6(a)},
 au6(a){var s=0,r=A.M(t.z),q=this,p,o,n
 var $async$jX=A.N(function(b,c){if(b===1)return A.J(c,r)
-while(true)switch(s){case 0:A.kL(new A.iZ("app.impactwallet.xyz/saleoffer?i="+A.e(q.c.a)))
+while(true)switch(s){case 0:A.kL(new A.iZ("app.equitywallet.org/saleoffer?i="+A.e(q.c.a)))
 p=a.a3(t.R)
 p.toString
 o=A.bt(a,null,t.l).w
@@ -104296,7 +104296,7 @@ return A.Q(A.FB(B.jt,o),$async$jX)
 case 2:if(a.f!=null)A.ba(a,!1).mQ(A.bv(new A.aw_(),!1,null,o),new A.aw0())
 return A.K(null,r)}})
 return A.L($async$jX,r)},
-H(a){var s,r,q,p,o,n,m,l,k,j=null,i="app.impactwallet.xyz/saleoffer?i=",h=a.a3(t.q).f,g=this.c,f=g.c
+H(a){var s,r,q,p,o,n,m,l,k,j=null,i="app.equitywallet.org/saleoffer?i=",h=a.a3(t.q).f,g=this.c,f=g.c
 f.toString
 s=B.e.ai(f*1e9/g.f.gpO()*100,1)
 f=A.aT(20)
