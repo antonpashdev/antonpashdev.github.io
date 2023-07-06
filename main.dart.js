@@ -105986,7 +105986,7 @@ A.aEE.prototype={
 $0(){this.a.d=this.b},
 $S:0}
 A.vD.prototype={
-a7(){return new A.abT(A.bW("^https:\\/\\/app\\.impactwallet\\.xyz\\/restore\\/.*$",!0,!1),B.o)}}
+a7(){return new A.abT(A.bW("^https:\\/\\/app\\.equitywallet\\.org\\/restore\\/.*$",!0,!1),B.o)}}
 A.abT.prototype={
 aAz(a){var s=this,r=s.f.b.test(a)
 if(r){s.T(new A.aNo(s))
