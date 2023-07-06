@@ -105089,7 +105089,7 @@ return A.c3(A.br(A.a1(A.a([q,B.aF,A.bd(A.v(s.r<=0.5?"Project is being created on
 apS(a,b){var s,r=this,q=null,p="https://explorer.solana.com/address/",o=A.v("Project was successfully created on blockchain!",q,q,q,q,A.A(a).p3.b.YO("Gilroy",B.ap),B.a5,q),n=r.d
 n===$&&A.b()
 s=t.p
-return A.a1(A.a([A.bd(A.z4(A.a([B.Zc,B.aF,o,B.bQ,A.v("Follow the link below to check on blockchain token created for "+A.e(n.c),q,q,q,q,A.A(a).p3.y.cc(B.B),B.a5,q),B.G,A.rg(!1,A.v(p+A.e(r.d.w),q,q,q,q,A.A(a).p3.Q.YN(B.aK,B.iO),B.a5,q),B.l,q,q,q,q,q,new A.aKB(r),q,q),B.O,B.jv,B.O,A.v("Follow the link below to check on blockchain that your wallet owns 100% of "+A.e(r.d.c),q,q,q,q,A.A(a).p3.y.cc(B.B),B.a5,q),B.G,A.rg(!1,A.v(p+A.e(b.d)+"/tokens",q,q,q,q,A.A(a).p3.Q.YN(B.aK,B.iO),B.a5,q),B.l,q,q,q,q,q,new A.aKC(b),q,q),B.lG],s),B.D,B.dF,B.ni,q,B.aG,!1),1,q),B.G,A.c3(A.br(A.c4(!1,B.lN,B.l,q,q,q,q,q,new A.aKD(r),q,q),q,220),q,q),B.O],s),B.i,B.j,B.f)},
+return A.a1(A.a([A.bd(A.z4(A.a([B.Zc,B.aF,o,B.bQ,A.v("Check "+A.e(n.c)+" token on blockchain",q,q,q,q,A.A(a).p3.y.cc(B.B),B.a5,q),B.G,A.rg(!1,A.v(p+A.e(r.d.w),q,q,q,q,A.A(a).p3.Q.YN(B.aK,B.iO),B.a5,q),B.l,q,q,q,q,q,new A.aKB(r),q,q),B.O,B.jv,B.O,A.v("Check that your wallet owns 100% of "+A.e(r.d.c)+" token",q,q,q,q,A.A(a).p3.y.cc(B.B),B.a5,q),B.G,A.rg(!1,A.v(p+A.e(b.d)+"/tokens",q,q,q,q,A.A(a).p3.Q.YN(B.aK,B.iO),B.a5,q),B.l,q,q,q,q,q,new A.aKC(b),q,q),B.lG],s),B.D,B.dF,B.ni,q,B.aG,!1),1,q),B.G,A.c3(A.br(A.c4(!1,B.lN,B.l,q,q,q,q,q,new A.aKD(r),q,q),q,220),q,q),B.O],s),B.i,B.j,B.f)},
 G(a){var s=this.e
 s===$&&A.b()
 return A.jx(null,null,A.d5(new A.aKI(this),s,t.jh))}}
