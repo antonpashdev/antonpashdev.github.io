@@ -101710,7 +101710,7 @@ return A.H($async$qm,r)}}
 A.ahy.prototype={
 ge4(){var s=this.a
 if(s===$){s!==$&&A.b0()
-s=this.a="https://impact-wallet.herokuapp.com"}return s},
+s=this.a="https://equitywallet-b362155a0894.herokuapp.com"}return s},
 qO(){var s=A.bbe(this.ge4(),B.n8,!0,B.n8,B.n8),r=new A.Wi(A.a([B.Rn],t.i6)),q=new A.ake($,r,$,new A.ahv(A.bnu()),!1)
 q.ZW$=s
 q.ZX$=new A.ahW(A.b4(t.Gf))
