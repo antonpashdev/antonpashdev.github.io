@@ -41,7 +41,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = "1705946908";
+    var serviceWorkerVersion = "905911374";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -87,23 +87,23 @@
         e.preventDefault();
       });
     }
-    // window.addEventListener('load', function (ev) {
-    //   // Download main.dart.js
-    //   _flutter.loader.loadEntrypoint({
-    //     entrypointUrl: "/main.dart.js",
-    //     serviceWorker: {
-    //       serviceWorkerUrl: "/flutter_service_worker.js?v=" +
-    //         serviceWorkerVersion,
-    //     },
-    //     onEntrypointLoaded: function (engineInitializer) {
-    //       engineInitializer.initializeEngine().then(function (appRunner) {
-    //         appRunner.runApp();
-    //         disableNativeNavSwipe();
-    //         loaderDiv.remove();
-    //       });
-    //     }
-    //   });
-    // });
+    window.addEventListener('load', function (ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        entrypointUrl: "/main.dart.js",
+        serviceWorker: {
+          serviceWorkerUrl: "/flutter_service_worker.js?v=" +
+            serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine().then(function (appRunner) {
+            appRunner.runApp();
+            disableNativeNavSwipe();
+            loaderDiv.remove();
+          });
+        }
+      });
+    });
   </script>
 </body>
 
