@@ -103823,7 +103823,7 @@ n=A.ch(A.iu(n,A.z("What about blockchain",k,k,k,k,B.aFe,k,k),new A.ars(),k),k,k)
 A.aF(a,B.t,m).toString
 l=A.ci(!1,A.z("Create Account",k,k,k,k,k,k,k),B.l,k,k,k,k,k,new A.art(a),k,k)
 A.aF(a,B.t,m).toString
-return A.ll(r,B.q,A.hI(!0,new A.el(A.a3(A.a([B.aH,p,o,new A.h5(1,B.cg,A.au(k,A.a3(A.a([n,A.bk(A.a3(A.a([l,B.E,new A.mK(A.z("Restore Account",k,k,k,k,k,k,k),new A.aru(a),k)],q),B.aD,B.bY,B.f),1,k)],q),B.aD,B.k,B.f),B.l,k,B.jc,k,k,k,k,k,k,k,1/0),k)],q),B.i,B.k,B.f),k),!0,B.H,!0,!0))}}
+return A.ll(r,B.q,A.hI(!0,new A.el(A.a3(A.a([B.aH,p,o,new A.h5(1,B.cg,A.au(k,A.a3(A.a([n,A.bk(A.a3(A.a([l,B.E,new A.mK(A.z("Login via Secret Link",k,k,k,k,k,k,k),new A.aru(a),k)],q),B.aD,B.bY,B.f),1,k)],q),B.aD,B.k,B.f),B.l,k,B.jc,k,k,k,k,k,k,k,1/0),k)],q),B.i,B.k,B.f),k),!0,B.H,!0,!0))}}
 A.arv.prototype={
 $1(a){return!1},
 $S:13}
