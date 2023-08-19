@@ -106839,19 +106839,19 @@ l=q==null
 if((l?f:q.c)!=null){k="@"+A.e(l?f:q.c)
 l=k}else l=""
 l=A.x(l,f,f,f,f,B.he,B.a5,f)
-k=n==null
-j=k?0:n
-j=A.L4(A.x("Your Equity Wallet balance $"+A.e(o),f,f,f,f,B.he,f,f),j>0)
-i=A.x("Your Equity Wallet bonus balance $"+A.e(n),f,f,f,f,B.Og,f,f)
+k=A.x("Your Equity Wallet balance $"+A.e(o),f,f,f,f,B.he,f,f)
+j=n==null
+i=j?0:n
+i=A.L4(A.x("Your Equity Wallet bonus balance $"+A.e(n),f,f,f,f,B.Og,f,f),i>0)
 h=e.r
-if(!h){g=0<=(k?0:n)
-k=g}else k=!1
-if(!k)k=0<=(o==null?0:o)
-else k=!0
-e=k?new A.aP4(e,r):f
-if(h)k=B.bW
-else k=A.x("Buy for $"+A.e(r==null?f:r.d),f,f,f,f,f,f,f)
-s.push(A.fY(0,A.a1(A.a([l,B.bh,j,i,B.a2,A.bq(A.c4(!1,k,B.k,f,f,f,f,f,e,f,f),f,290)],m),B.j,B.i,B.f),f,f,0,0,f,f))
+if(!h){g=0<=(j?0:n)
+j=g}else j=!1
+if(!j)j=0<=(o==null?0:o)
+else j=!0
+e=j?new A.aP4(e,r):f
+if(h)j=B.bW
+else j=A.x("Buy for $"+A.e(r==null?f:r.d),f,f,f,f,f,f,f)
+s.push(A.fY(0,A.a1(A.a([l,B.bh,k,i,B.a2,A.bq(A.c4(!1,j,B.k,f,f,f,f,f,e,f,f),f,290)],m),B.j,B.i,B.f),f,f,0,0,f,f))
 return A.eg(B.bm,s,B.A,B.aV,f)},
 $S:224}
 A.aP4.prototype={
