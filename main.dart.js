@@ -105579,7 +105579,10 @@ j=k==null
 if(!j&&o.c!=null){p=o.c
 p.toString
 A.aT(p,!1).a2d(k,t.X)
-m.xw("redirect_to")}if(j&&l==null){o.PW(n)
+m.xw("redirect_to")}if(j)if(l==null)j=(n==null?0:n)>0
+else j=!1
+else j=!1
+if(j){o.PW(n)
 m.lq(0,"bonus_flow_greeting_showed",!0)}return A.D(null,r)}})
 return A.E($async$$1,r)},
 $S:592}
