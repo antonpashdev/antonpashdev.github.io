@@ -31114,7 +31114,7 @@ _.a=d},
 OK:function OK(a){var _=this
 _.f=_.e=_.d=$
 _.w=_.r=null
-_.z=_.y="monthly"
+_.z=_.y="weekly"
 _.a=null
 _.b=a
 _.c=null},
