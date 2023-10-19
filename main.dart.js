@@ -107013,7 +107013,7 @@ s.toString
 return this.a.$1(s)},
 $S:0}
 A.aYv.prototype={
-$0(){A.y5(A.fd("https://explorer.solana.com/address/"+A.e(this.a.d)+"/tokens",0,null))},
+$0(){A.y5(A.fd("https://solscan.io/address/"+A.e(this.a.d)+"/tokens",0,null))},
 $S:0}
 A.aYw.prototype={
 $0(){A.aL(this.a,!1).bx(A.bj(new A.aYr(),!1,null,t.z))},
@@ -110337,7 +110337,7 @@ case 1:return A.B(p,r)}})
 return A.D($async$DP,r)},
 ash(){var s=this,r=null,q=A.bf(new A.ec(B.ht,r,r,new A.ym(s.f,220,new A.aQc(s),new A.aQd(s),r),r),1,r)
 return A.bV(A.bd(A.a_(A.a([q,B.aF,A.bf(A.v(s.r<=0.5?"Project is being created on blockchain.":"100% equity of a project is being linked to your account.",r,r,r,r,B.aE1,B.a0,r),1,r)],t.p),B.k,B.h,B.f),r,220),r,r)},
-as6(a,b){var s,r=this,q=null,p="https://explorer.solana.com/address/",o=A.v("Project was successfully created on blockchain!",q,q,q,q,A.I(a).p3.b.DM("Gilroy",B.a9),B.a0,q),n=r.d
+as6(a,b){var s,r=this,q=null,p="https://solscan.io/address/",o=A.v("Project was successfully created on blockchain!",q,q,q,q,A.I(a).p3.b.DM("Gilroy",B.a9),B.a0,q),n=r.d
 n===$&&A.b()
 s=t.p
 return A.a_(A.a([A.bf(A.vu(A.a([B.a_L,B.aF,o,B.bt,A.v("Check "+A.e(n.c)+" token on blockchain",q,q,q,q,A.I(a).p3.y.cz(B.M),B.a0,q),B.B,A.hd(!1,A.v(p+A.e(r.d.w),q,q,q,q,A.I(a).p3.Q.a_g(B.aj,B.fd),B.a0,q),B.i,q,q,q,q,q,new A.aQ7(r),q,q),B.O,B.fw,B.O,A.v("Check that your wallet owns 100% of "+A.e(r.d.c)+" token",q,q,q,q,A.I(a).p3.y.cz(B.M),B.a0,q),B.B,A.hd(!1,A.v(p+A.e(b.d)+"/tokens",q,q,q,q,A.I(a).p3.Q.a_g(B.aj,B.fd),B.a0,q),B.i,q,q,q,q,q,new A.aQ8(b),q,q),B.aBF],s),B.A,B.ds,B.nS,q,B.ap,!1),1,q),B.B,A.bV(A.bd(A.bT(!1,B.mf,B.i,q,q,q,q,q,new A.aQ9(r),q,q),q,220),q,q),B.O],s),B.k,B.h,B.f)},
@@ -110387,7 +110387,7 @@ $0(){var s=0,r=A.E(t.H),q=this,p,o
 var $async$$0=A.F(function(a,b){if(a===1)return A.B(b,r)
 while(true)switch(s){case 0:o=q.a.d
 o===$&&A.b()
-p=A.fd("https://explorer.solana.com/address/"+A.e(o.w),0,null)
+p=A.fd("https://solscan.io/address/"+A.e(o.w),0,null)
 s=2
 return A.K(A.y6(p,B.fB),$async$$0)
 case 2:if(!b)throw A.d(A.ci("Could not launch "+p.k(0)))
@@ -110397,7 +110397,7 @@ $S:15}
 A.aQ8.prototype={
 $0(){var s=0,r=A.E(t.H),q=this,p
 var $async$$0=A.F(function(a,b){if(a===1)return A.B(b,r)
-while(true)switch(s){case 0:p=A.fd("https://explorer.solana.com/address/"+A.e(q.a.d)+"/tokens",0,null)
+while(true)switch(s){case 0:p=A.fd("https://solscan.io/address/"+A.e(q.a.d)+"/tokens",0,null)
 s=2
 return A.K(A.y6(p,B.fB),$async$$0)
 case 2:if(!b)throw A.d(A.ci("Could not launch "+p.k(0)))
