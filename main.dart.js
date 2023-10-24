@@ -108049,8 +108049,8 @@ $S:609}
 A.wJ.prototype={
 zw(a,b){var s=A.bn(new A.aCc(this,b),!1,null,t.z)
 A.aL(a,!1).bx(s)},
-E(a){var s=null,r=t.p,q=A.fQ(!1,A.ap(A.a([A.bm(A.bV(A.al(s,B.a_Y,B.A,s,s,new A.aS(B.N,s,s,A.aX(20),s,s,s,B.u),s,50,s,s,s,s,s,50),s,s),1,s),B.Zi],r),B.k,B.j,B.f),B.i,s,s,s,s,s,new A.aCa(this,a),s,s),p=A.aX(20)
-return new A.c4(new A.aW(B.uz,A.a_(A.a([q,B.bN,A.fQ(!1,A.ap(A.a([A.bm(A.bV(A.al(s,A.jH("assets/icons/organization.png",s,s),B.A,s,s,new A.aS(B.N,s,s,p,s,s,s,B.u),s,50,s,s,B.Z7,s,s,50),s,s),1,s),B.Zh],r),B.k,B.j,B.f),B.i,s,s,s,s,s,new A.aCb(this,a),s,s)],r),B.aq,B.j,B.f),s),"Send equity",s,s,s)}}
+E(a){var s=null,r=t.p,q=A.fQ(!1,A.ap(A.a([A.bm(A.bV(A.al(s,B.a_Y,B.A,s,s,new A.aS(B.N,s,s,A.aX(20),s,s,s,B.u),s,50,s,s,s,s,s,50),s,s),1,s),B.Zh],r),B.k,B.j,B.f),B.i,s,s,s,s,s,new A.aCa(this,a),s,s),p=A.aX(20)
+return new A.c4(new A.aW(B.uz,A.a_(A.a([q,B.bN,A.fQ(!1,A.ap(A.a([A.bm(A.bV(A.al(s,A.jH("assets/icons/organization.png",s,s),B.A,s,s,new A.aS(B.N,s,s,p,s,s,s,B.u),s,50,s,s,B.Z7,s,s,50),s,s),1,s),B.Zi],r),B.k,B.j,B.f),B.i,s,s,s,s,s,new A.aCb(this,a),s,s)],r),B.aq,B.j,B.f),s),"Send equity",s,s,s)}}
 A.aCc.prototype={
 $1(a){var s=this.a
 return new A.rA(s.c,s.d,this.b,null)},
@@ -108934,7 +108934,7 @@ A.ade.prototype={
 aE(){this.aT()
 this.r.scK(0,J.cD(this.f.f.c))},
 xj(){var s=this,r=null,q="Equity Allocation",p="Minimal Investment",o=$.bdK(),n=t.VS,m=t.g
-return A.hQ(A.a_(A.a([B.aI_,B.cb,B.aIm,B.a5,A.ec(!0,r,!0,r,r,r,A.a([o,$.b4s()],n),r,r,r,1,1,new A.aPu(s),B.dX,!1,B.aO,r,B.P,A.eL(A.a([A.eN("Raising"),A.fZ("Raising")],m))),B.O,B.aIx,B.a5,A.ec(!1,r,!0,r,s.e,r,B.b6,r,r,r,1,1,new A.aPv(s),B.f9,!1,B.aO,r,B.P,A.eL(A.a([A.eN(q),A.fZ(q),A.tP(100)],m))),B.O,B.aHJ,B.a5,A.ec(!1,s.r,!0,r,r,r,A.a([o,$.b4s()],n),B.qD,r,r,1,1,new A.aPw(s),B.dX,!1,B.aO,r,B.P,A.eL(A.a([A.eN(p),A.fZ(p)],m)))],t.p),B.K,B.j,B.f),s.d,r)},
+return A.hQ(A.a_(A.a([B.aI0,B.cb,B.aIm,B.a5,A.ec(!0,r,!0,r,r,r,A.a([o,$.b4s()],n),r,r,r,1,1,new A.aPu(s),B.dX,!1,B.aO,r,B.P,A.eL(A.a([A.eN("Raising"),A.fZ("Raising")],m))),B.O,B.aIx,B.a5,A.ec(!1,r,!0,r,s.e,r,B.b6,r,r,r,1,1,new A.aPv(s),B.f9,!1,B.aO,r,B.P,A.eL(A.a([A.eN(q),A.fZ(q),A.tP(100)],m))),B.O,B.aHJ,B.a5,A.ec(!1,s.r,!0,r,r,r,A.a([o,$.b4s()],n),B.qD,r,r,1,1,new A.aPw(s),B.dX,!1,B.aO,r,B.P,A.eL(A.a([A.eN(p),A.fZ(p)],m)))],t.p),B.K,B.j,B.f),s.d,r)},
 cV(a){return this.axh(a)},
 axh(a){var s=0,r=A.G(t.z),q,p=2,o,n=this,m,l,k,j
 var $async$cV=A.H(function(b,c){if(b===1){o=c
@@ -109511,11 +109511,11 @@ A.aL(q,!1).bx(r)},
 E(a){var s,r,q,p,o=this,n=null,m=o.d
 m===$&&A.b()
 s=t.pa
-r=A.hT(!1,B.F,n,n,!0,n,n,n,!1,A.a2o(B.w,m,new A.aSJ(o),B.iB,s),n,n,n,!1,n,n,n,n,n,n,B.aHY,n,n)
+r=A.hT(!1,B.F,n,n,!0,n,n,n,!1,A.a2o(B.w,m,new A.aSJ(o),B.iB,s),n,n,n,!1,n,n,n,n,n,n,B.aHZ,n,n)
 m=A.bav(a,$.btw,m===B.iB)
 q=o.d
 p=t.p
-q=A.bm(A.Ab(A.a([B.C,B.aIw,B.O,B.aIl,B.C,r,m,B.aI,A.hT(!1,B.F,n,n,!0,n,n,n,!1,A.a2o(B.w,q,new A.aSK(o),B.er,s),n,n,n,!1,n,n,n,n,n,n,B.aHW,n,n),A.bav(a,$.brf,q===B.er)],p),B.A,B.dS,n,n,B.ao,!1),1,n)
+q=A.bm(A.Ab(A.a([B.C,B.aIw,B.O,B.aIl,B.C,r,m,B.aI,A.hT(!1,B.F,n,n,!0,n,n,n,!1,A.a2o(B.w,q,new A.aSK(o),B.er,s),n,n,n,!1,n,n,n,n,n,n,B.aHX,n,n),A.bav(a,$.brf,q===B.er)],p),B.A,B.dS,n,n,B.ao,!1),1,n)
 A.b6(a,B.I,t.A).toString
 return new A.c4(A.a_(A.a([q,B.C,A.bf(A.bT(!1,A.v("Next",n,n,n,n,n,n,n),B.i,n,n,n,n,n,o.gjL(),n,n),n,290)],p),B.k,B.j,B.f),"Choose Role",n,n,n)}}
 A.aSL.prototype={
@@ -109794,7 +109794,7 @@ $1(a){return!1},
 $S:13}
 A.aT6.prototype={
 $1(a){var s=null
-return new A.yh(B.aHX,A.v(J.cD(this.b),s,s,s,s,s,s,s),A.a([A.fQ(!1,B.aI4,B.i,s,s,s,s,s,new A.aT3(this.a),s,s)],t.p),s)},
+return new A.yh(B.aHY,A.v(J.cD(this.b),s,s,s,s,s,s,s),A.a([A.fQ(!1,B.aI5,B.i,s,s,s,s,s,new A.aT3(this.a),s,s)],t.p),s)},
 $S:643}
 A.aT3.prototype={
 $0(){var s=this.a.c
@@ -109856,7 +109856,7 @@ return"The link is not valid"},
 vl(){if(this.d===!0)return"assets/icons/check_filled.svg"
 return"assets/icons/cross_red.svg"},
 E(a){var s=this,r=null,q=A.hQ(A.ec(!0,r,!0,r,r,r,B.b6,r,r,r,8,8,new A.aJ3(s),r,!1,B.aO,r,B.P,r),r,r),p=A.v(s.H5(),r,r,r,r,B.qG,r,r),o=s.d!=null?A.eu(s.vl(),r,B.ba,r):A.al(r,r,B.i,r,r,r,r,r,r,r,r,r,r,r),n=t.p
-return new A.c4(A.a_(A.a([B.qi,B.aIi,B.qh,q,B.C,A.ap(A.a([p,B.dT,o],n),B.k,B.bz,B.f),B.bN,new A.eb(B.z,r,r,A.bf(A.bT(!1,B.aID,B.i,r,r,r,r,r,s.gjL(),r,r),r,240),r),B.O,B.aI1],n),B.aq,B.j,B.f),"Check the Link to your Account",r,r,r)}}
+return new A.c4(A.a_(A.a([B.qi,B.aIi,B.qh,q,B.C,A.ap(A.a([p,B.dT,o],n),B.k,B.bz,B.f),B.bN,new A.eb(B.z,r,r,A.bf(A.bT(!1,B.aID,B.i,r,r,r,r,r,s.gjL(),r,r),r,240),r),B.O,B.aI2],n),B.aq,B.j,B.f),"Check the Link to your Account",r,r,r)}}
 A.aJ4.prototype={
 $1(a){return B.ZX},
 $S:67}
@@ -112082,7 +112082,7 @@ A.aXF.prototype={
 $0(){},
 $S:0}
 A.aXH.prototype={
-$1(a){return A.bV(new A.lX(B.aI0,new A.aXE(),null),null,null)},
+$1(a){return A.bV(new A.lX(B.aI1,new A.aXE(),null),null,null)},
 $S:113}
 A.aXE.prototype={
 $0(){},
@@ -112381,7 +112381,7 @@ s=t.p
 p=A.ap(A.a([B.a03,B.aBx,A.v(p,q,q,q,q,B.Ov,q,q)],s),B.k,B.j,B.f)
 r=this.d
 r.toString
-s=A.a_(A.a([p,B.O,A.v(r,q,q,q,q,B.ez,q,q),B.he,A.ap(A.a([A.bf(A.bT(!1,B.aI2,B.i,q,q,q,q,q,new A.aKv(a),q,q),q,330)],s),B.hQ,B.bz,B.f)],s),B.k,B.j,B.b_)
+s=A.a_(A.a([p,B.O,A.v(r,q,q,q,q,B.ez,q,q),B.he,A.ap(A.a([A.bf(A.bT(!1,B.aI3,B.i,q,q,q,q,q,new A.aKv(a),q,q),q,330)],s),B.hQ,B.bz,B.f)],s),B.k,B.j,B.b_)
 p=s}return A.al(q,new A.aW(B.uG,p,q),B.i,q,q,B.rV,q,q,q,q,q,q,q,q)}}
 A.aKv.prototype={
 $0(){A.aL(this.a,!1).no(null)},
@@ -112739,7 +112739,7 @@ q=q==null?r:J.iZ(q)
 s=A.C(a).p3.Q
 s=s==null?r:s.cv(B.N)
 return A.a_(A.a([B.b0,A.v("@"+A.e(q),r,r,r,r,s,r,r)],t.p),B.k,B.j,B.f)},
-M7(a){var s,r,q,p=this,o=null,n=A.C(a).p3.Q,m=n==null?o:n.hv(B.V)
+M7(a){var s,r,q,p=this,o=null,n=A.C(a).p3.z,m=n==null?o:n.hv(B.V)
 n=A.hT(!1,B.F,!0,o,!0,o,o,o,!1,o,o,o,o,!1,o,o,o,o,o,o,A.v("Your revenue share",o,o,o,o,m,o,o),A.cQ(new A.ax2(m),p.f,t.N),B.mo)
 s=A.v("Your total earnings",o,o,o,o,m,o,o)
 r=A.jS("#,###.##",o)
@@ -112771,7 +112771,7 @@ p=0
 for(;p<r.length;r.length===q||(0,A.W)(r),++p)s.push(r[p])
 r=J.b4D(J.bA(J.ai(n,"members")),1)
 n=A.e(J.ai(n,"total"))
-q=A.C(a).p3.at
+q=A.C(a).p3.Q
 q=q==null?o:q.hv(B.a7)
 s.push(A.eX(0,A.bV(A.v(n+" members",o,o,o,o,q,o,o),o,o),o,o,30+r*10+5,o,0,o))
 return A.bf(A.dG(B.aW,s,B.A,B.aJ,o),30,o)},
@@ -122690,8 +122690,8 @@ B.T9=new A.yy(null,null,null,null,null,null,null)
 B.ms=new A.MC(0,"material")
 B.Tj=new A.lo(B.ms,4,null,null,null,null,null,null,null)
 B.e2=new A.fl(B.z,null,null,B.Tj,null)
-B.aHZ=new A.ar("Nothing found",null,null,null,null,null,null,null,null,null)
-B.Tb=new A.fl(B.z,null,null,B.aHZ,null)
+B.aI_=new A.ar("Nothing found",null,null,null,null,null,null,null,null,null)
+B.Tb=new A.fl(B.z,null,null,B.aI_,null)
 B.UG=new A.A(4286268556)
 B.VF=new A.A(4292765861)
 B.PP=new A.ym(0.3,250,null,null,null)
@@ -123180,10 +123180,10 @@ B.aHF=new A.ar("To Equity Wallet User",null,null,null,null,null,null,null,null,n
 B.Zf=new A.oo(2,B.eN,B.aHF,null)
 B.aHK=new A.ar("To Solana Wallet Address",null,null,null,null,null,null,null,null,null)
 B.Zg=new A.oo(2,B.eN,B.aHK,null)
-B.aI5=new A.ar("to Organization or Project",null,null,null,null,null,null,null,null,null)
-B.Zh=new A.oo(2,B.eN,B.aI5,null)
 B.aJ0=new A.ar("to Personal account",null,null,null,null,null,null,null,null,null)
-B.Zi=new A.oo(2,B.eN,B.aJ0,null)
+B.Zh=new A.oo(2,B.eN,B.aJ0,null)
+B.aHW=new A.ar("to Organization account",null,null,null,null,null,null,null,null,null)
+B.Zi=new A.oo(2,B.eN,B.aHW,null)
 B.aFB=new A.t(!0,null,null,null,null,null,21,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aIH=new A.ar("There are no transactions \ud83d\udc40",null,B.aFB,null,null,null,null,null,null,null)
 B.Ta=new A.fl(B.z,null,null,B.aIH,null)
@@ -127487,10 +127487,10 @@ B.MM=new A.wy(0,"pop")
 B.azF=new A.wy(1,"doNotPop")
 B.azG=new A.wy(2,"bubble")
 B.h4=new A.hr(null,null)
-B.aI3=new A.ar("Invite member",null,null,null,null,null,null,null,null,null)
+B.aI4=new A.ar("Invite member",null,null,null,null,null,null,null,null,null)
 B.a_C=new A.bK(62591,"CupertinoIcons","cupertino_icons",!1)
 B.a_Z=new A.cd(B.a_C,null,null,null,null)
-B.a5f=A.a(s([B.aI3,B.a_Z]),t.p)
+B.a5f=A.a(s([B.aI4,B.a_Z]),t.p)
 B.azH=new A.k6(B.aK,B.L,B.f,B.k,null,B.bD,null,B.a5f,null)
 B.aHQ=new A.ar("Change Treasury",null,null,null,null,null,null,null,null,null)
 B.a_w=new A.bK(983902,"MaterialIcons",null,!1)
@@ -128231,16 +128231,16 @@ B.OD=new A.ar("Copied to clipboard",null,B.hh,B.a3,null,null,null,null,null,null
 B.aHU=new A.ar("Orientation",null,null,null,null,null,null,null,null,null)
 B.OE=new A.ar("Cancel",null,B.mb,null,null,null,null,null,null,null)
 B.aHV=new A.ar("You Send",null,B.be,null,null,null,null,null,null,null)
-B.aHW=new A.ar("Admin",null,null,null,null,null,null,null,null,null)
-B.aHX=new A.ar("Operation failed",null,null,null,null,null,null,null,null,null)
-B.aHY=new A.ar("Member",null,null,null,null,null,null,null,null,null)
+B.aHX=new A.ar("Admin",null,null,null,null,null,null,null,null,null)
+B.aHY=new A.ar("Operation failed",null,null,null,null,null,null,null,null,null)
+B.aHZ=new A.ar("Member",null,null,null,null,null,null,null,null,null)
 B.dY=new A.ar("Next",null,null,null,null,null,null,null,null,null)
-B.aI_=new A.ar("What is the deal?",null,B.be,null,null,null,null,null,null,null)
-B.aI0=new A.ar("Secondary button",null,null,null,null,null,null,null,null,null)
+B.aI0=new A.ar("What is the deal?",null,B.be,null,null,null,null,null,null,null)
+B.aI1=new A.ar("Secondary button",null,null,null,null,null,null,null,null,null)
 B.f9=new A.ar("%",null,null,null,null,null,null,null,null,null)
-B.aI1=new A.ar("Be sure you save the link.\nYou won\u2019t be able to get\naccess to your account\nwithout this link.",null,B.hi,B.a3,null,null,null,null,null,null)
-B.aI2=new A.ar("Got it",null,null,null,null,null,null,null,null,null)
-B.aI4=new A.ar("OK",null,null,null,null,null,null,null,null,null)
+B.aI2=new A.ar("Be sure you save the link.\nYou won\u2019t be able to get\naccess to your account\nwithout this link.",null,B.hi,B.a3,null,null,null,null,null,null)
+B.aI3=new A.ar("Got it",null,null,null,null,null,null,null,null,null)
+B.aI5=new A.ar("OK",null,null,null,null,null,null,null,null,null)
 B.aI6=new A.ar("Burn",null,null,null,null,null,null,null,null,null)
 B.aI7=new A.ar("You Send",null,B.bl,null,null,null,null,null,null,null)
 B.aGC=new A.t(!0,B.cm,null,null,null,null,16,B.bI,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
