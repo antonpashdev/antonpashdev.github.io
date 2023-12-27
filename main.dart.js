@@ -30260,7 +30260,7 @@ _.a=a
 _.b=b
 _.c=c},
 auf:function auf(){this.b=this.a=null},
-n9(a){var s,r,q=null,p="settings",o=new A.n8(q,q,q,q,q,q,new A.vV(0)),n=J.au(a)
+n9(a){var s,r,q=null,p="settings",o=new A.n8(q,q,q,q,q,q,new A.vV(0,!1)),n=J.au(a)
 o.a=n.i(a,"_id")
 o.b=n.i(a,"username")
 o.c=n.i(a,"name")
@@ -30273,7 +30273,7 @@ o.x=n.i(a,"mintStatus")
 o.y=n.i(a,"mintError")
 o.as=A.hB(n.i(a,"lamportsMinted"))
 if(t.f.b(n.i(a,p))){n=n.i(a,p)
-s=new A.vV(0)
+s=new A.vV(0,q)
 r=J.au(n)
 s.a=r.i(n,"treasury")
 s.b=r.i(n,"successUrl")
@@ -30293,9 +30293,10 @@ _.r=f
 _.z=_.y=_.x=_.w=null
 _.Q=g
 _.as=null},
-vV:function vV(a){var _=this
+vV:function vV(a,b){var _=this
 _.a=a
-_.d=_.c=_.b=null},
+_.c=_.b=null
+_.d=b},
 b7L(a){var s=new A.a1L()
 s.abV(a)
 return s},
@@ -110156,7 +110157,7 @@ if(s!=null)s.d=this.b},
 $S:0}
 A.ux.prototype={
 a4(){var s=null,r=t.kS,q=new A.mi(s,s,r)
-r=new A.Nc(new A.bs(s,t.o),new A.Js(q,new A.hA(q,r.h("hA<1>")),t.DF),new A.n8(s,s,s,s,s,s,new A.vV(0)),B.n)
+r=new A.Nc(new A.bs(s,t.o),new A.Js(q,new A.hA(q,r.h("hA<1>")),t.DF),new A.n8(s,s,s,s,s,s,new A.vV(0,!1)),B.n)
 r.a6a()
 return r}}
 A.Nc.prototype={
@@ -112182,8 +112183,8 @@ A.aXH.prototype={
 $0(){},
 $S:0}
 A.aXN.prototype={
-$1(a){var s="Test",r=null,q=new A.n8(s,s,r,"My test organization","/orgs/logo/d67ef715-14c6-4476-834f-e7180d5c4092.jpg","3RfZBjYzpuLfuMfR7fPAdAzMr39VRyLrHJGAW3B3kEfw",new A.vV(0))
-q.Q=new A.vV(20)
+$1(a){var s="Test",r=null,q=new A.n8(s,s,r,"My test organization","/orgs/logo/d67ef715-14c6-4476-834f-e7180d5c4092.jpg","3RfZBjYzpuLfuMfR7fPAdAzMr39VRyLrHJGAW3B3kEfw",new A.vV(0,!1))
+q.Q=new A.vV(20,!1)
 q.a="6448c3faca4ad8218c87787f"
 return new A.n3(q,A.b1I(40,7,!0,"Frontend","6429d40d370950b4635db8b6",A.dc(a,!0,t.Se).B2(new A.hS("Role",r,new A.a3G(A.a([B.aya,B.ayc,B.ayb,B.ayd],t.Fx),B.er,t.sq),t.Ix),t.j1),new A.te("Test nuckname",s,"/users/avatar/8ed4952c-7d98-4b0c-bfe0-4aeaa5c43932.jpg","6429d3bc370950b4635db8a6",r)),new A.hW("1",q,r,A.a([],t.hU),r,r),!1,r,r)},
 $S:89}
