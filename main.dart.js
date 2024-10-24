@@ -32182,9 +32182,11 @@ b1T:function b1T(){},
 aLI:function aLI(){this.b=this.a=$},
 ayM:function ayM(a,b){this.a=a
 this.b=b},
-a0Z:function a0Z(a,b,c){this.a=a
-this.b=b
-this.c=c},
+a0Z:function a0Z(a,b,c,d){var _=this
+_.a=a
+_.b=b
+_.c=c
+_.d=d},
 a1_:function a1_(a,b,c,d,e,f){var _=this
 _.a=a
 _.b=b
@@ -114643,7 +114645,7 @@ p===$&&A.b()
 s=b.e
 r=t.N
 q=t.z
-s=A.at(["treasury",s.a,"isApp",s.b,"pricePerMonth",s.c],r,q)
+s=A.at(["treasury",s.a,"isApp",s.b,"pricePerMonth",s.c,"appUrl",s.d],r,q)
 return p.a62(0,"/orgs/"+a+"/update",A.at(["name",b.a,"username",b.b,"description",b.c,"link",b.d,"settings",s,"logo",b.f],r,q),q)}}
 A.aTv.prototype={
 Id(a){return this.a8n(a)},
@@ -117838,7 +117840,7 @@ n.toString
 p=q.d
 p===$&&A.b()
 s=2
-return A.E(o.a7g(n,new A.a1_(null,null,null,null,new A.a0Z(p,null,null),null)),$async$HL)
+return A.E(o.a7g(n,new A.a1_(null,null,null,null,new A.a0Z(p,null,null,null),null)),$async$HL)
 case 2:return A.x(null,r)}})
 return A.y($async$HL,r)},
 j9(){var s=0,r=A.z(t.z),q=1,p,o=[],n=this,m,l,k,j,i
@@ -118794,30 +118796,31 @@ if(s==null)s=f
 else{s=s.f
 s=s==null?f:B.d.k(s)}if(s==null)s=""
 g.as.jK(0,new A.c_(s,B.bZ,B.aN))},
-HN(){var s=0,r=A.z(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f
+HN(){var s=0,r=A.z(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f,e
 var $async$HN=A.A(function(a,b){if(a===1)return A.w(b,r)
-while(true)switch(s){case 0:f=q.d
-f===$&&A.b()
-p=f.Q
+while(true)switch(s){case 0:e=q.d
+e===$&&A.b()
+p=e.Q
 o=p==null
 n=o?null:p.e
 if(n===!0){if(!o)p.f=A.d8(q.as.a.a)
-f=q.d
-p=f.Q
+e=q.d
+p=e.Q
 if(p!=null)p.r=q.Q.a.a}p=$.cp()
-o=f.a
+o=e.a
 o.toString
-n=f.c
-m=f.b
-l=f.e
-k=f.d
-j=f.Q
+n=e.c
+m=e.b
+l=e.e
+k=e.d
+j=e.Q
 i=j==null
 h=i?null:j.a
 g=i?null:j.e
-j=i?null:j.f
+f=i?null:j.f
+j=i?null:j.r
 s=2
-return A.E(p.a7g(o,new A.a1_(n,m,l,k,new A.a0Z(h,g,j),f.f)),$async$HN)
+return A.E(p.a7g(o,new A.a1_(n,m,l,k,new A.a0Z(h,g,f,j),e.f)),$async$HN)
 case 2:return A.x(null,r)}})
 return A.y($async$HN,r)},
 Qi(a){this.T(new A.aT2(this,a))},
